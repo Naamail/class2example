@@ -1,0 +1,20 @@
+:root {
+
+--eggplant: rgba(52, 52, 74, 1);
+--brown: rgba(128, 71, 94, 1);
+--orange: rgba(204, 90, 113, 1);
+--brass: rgba(200, 155, 123, 1);
+--lemon: rgba(240, 247, 87, 1);
+}
+
+* {
+    font-family: "Arial Narrow";
+}
+
+div {
+    width: 500px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 10px;
+    background-color: lightgray;
+}
